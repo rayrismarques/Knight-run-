@@ -8,9 +8,7 @@ This is from when I used this tutorial (https://www.youtube.com/watch?v=AY9MnQ4x
 
 A 2D pixel-art endless runner. Control a knight, jump over obstacles, and survive for as long as you can.
 
-
-
-
+<img width="792" height="451" alt="Captura de tela 2026-11-08 033358" src="https://github.com/user-attachments/assets/abdd8e27-cb36-4c2f-b933-4a34ac5fc26f" />
 
 
 
