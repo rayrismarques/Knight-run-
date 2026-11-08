@@ -1,0 +1,3 @@
+Olá, bom dia/boa noite. :)
+
+O único comando é pressionar a tecla SPACE (barra de espaço) tanto para iniciar o jogo (seja no menu inicial ou depois de levar game over), quanto para fazer a personagem PULAR.
